@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863795658404",
+    "project_id": "push-7e378",
+    "storage_bucket": "push-7e378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863795658404:android:749f1ac13fe1fc723d7031",
+        "android_client_info": {
+          "package_name": "com.dts.flutterfcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcNGpL4JN_pmUQIbqyiD2024GUrH5B0Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
